@@ -3,6 +3,9 @@
 <!--
 **Adicondro/Adicondro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### I'm listening to:
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=adicondro_yusuf&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=adicondro_yusuf&cover_image=true&theme=compact&show_offline=false&background_color=121212)]]
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
