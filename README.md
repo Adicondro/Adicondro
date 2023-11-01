@@ -9,8 +9,8 @@
 <br />
 
 **Get To Know Me!**
-- 🎓 I am currently studying at Telkom University
-- 🎨 Enthusiastic about art and the creative world
+- 🎓 Currently studying at Telkom University
+- 🎨 Enthusiastic about art and creative world
 - 🌐 Have a passion for things like motion design, 3D design, coding, and music
 
 <br />
