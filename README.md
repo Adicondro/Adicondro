@@ -60,9 +60,11 @@
 
 <br />
 <br />
+<br />
 
 **Github Stats︎︎ ︎︎︎ ︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/shigeo.gif" />
+<br />
 
 [![Top Langs](https://github-readme-stats-adicondros-projects.vercel.app/api/top-langs/?username=Adicondro&show_icons=true&theme=dark)](https://github.com/adicondro/github-readme-stats)
 
