@@ -1,11 +1,5 @@
 <h1 align="center" style="color: blue;">Ola Como Estas, I'm <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>!</h1>
 
-<br />
-
-
-
-
-<br />
 
 **Now Playing 🎧**
 <br />
@@ -32,8 +26,11 @@
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
-
 <br />
+<br />
+
+[![Top Langs](https://github-readme-stats-adicondros-projects.vercel.app/api/top-langs/?username=Adicondro&show_icons=true&theme=dark)](https://github.com/adicondro/github-readme-stats)
+
 <br />
 
 **Softwares**
@@ -61,10 +58,9 @@
 <br />
 <br />
 
-<img display="block" alt="Yoriichi" width="360px" align="center" src="https://github.com/Adicondro/Adicondro/blob/5f83c0219937d0c612ddecdaf352c8410cea82ad/gif/Zenitsu2.gif" />
+
+**Github Stats ︎︎︎ ︎**
+<img display="block" alt="Yoriichi" width="100px" align="center" width="100px" src="https://github.com/Adicondro/Adicondro/blob/c3b6bdc392e053a5eae61ad27c64c59b461667cc/gif/Zenitsu1.gif" />
 <br />
-
-[![Top Langs](https://github-readme-stats-adicondros-projects.vercel.app/api/top-langs/?username=Adicondro&show_icons=true&theme=dark)](https://github.com/adicondro/github-readme-stats)
-
-
+<br />
 [![Adicondro's GitHub stats](https://github-readme-stats-adicondros-projects.vercel.app/api?username=Adicondro&show_icons=true&theme=dark)](https://github.com/adicondro/github-readme-stats)
