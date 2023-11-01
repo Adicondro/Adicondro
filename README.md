@@ -1,6 +1,11 @@
 ## Ola Como Estas, I'm <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>!
 
-### "F*ck it, we ball"
+<br />
+
+### Now Playing 🎧
+[![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
+
+<br />
 <br />
 
 **Get To Know Me!**
@@ -48,14 +53,5 @@
 
 <br />
 <br />
-
----
-
-
-
-### Now Playing 🎧
-
-[<img src="https://spotify-now-playing-pi-eight.vercel.app/api/spotify" alt=“Adicondro Spotify Playing" width="350" />](https://open.spotify.com/user/adicondro_yusuf?si=8130aa7e89384e65)
----
 
 [![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
