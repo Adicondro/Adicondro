@@ -54,8 +54,6 @@
 
 **Github Stats**
 
-<br />
-
 [![Top Langs](https://github-readme-stats-adicondros-projects.vercel.app/api/top-langs/?username=Adicondro&show_icons=true&theme=dark)](https://github.com/adicondro/github-readme-stats)
 
 
