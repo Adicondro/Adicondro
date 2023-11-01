@@ -55,7 +55,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://spotify-now-playing-adicondros-projects.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=2f3f47eac8054606)
+[<img src="https://spotify-now-playing-pi-eight.vercel.app/api/spotify" alt=“Adicondro Spotify Playing" width="350" />](https://open.spotify.com/user/adicondro_yusuf?si=8130aa7e89384e65)
 ---
 
 [![Aakarsh's github stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
