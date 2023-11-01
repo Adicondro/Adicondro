@@ -1,7 +1,12 @@
-## Ola Como Estas, I'm <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>!
+<h1 align="center" style="color: blue;">Ola Como Estas, I'm <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>!</h1>
 
 <br />
-<img align="center" alt="Yoriichi" width="50%" src="https://github.com/Adicondro/Adicondro/blob/b504371e3116986959694cd2dd6e3898b9126bcf/gif/Yoriichi.gif" />
+
+<div style="text-align: center;">
+  <img display="block" align="center" alt="Yoriichi" src="https://github.com/Adicondro/Adicondro/blob/b504371e3116986959694cd2dd6e3898b9126bcf/gif/Yoriichi.gif" />
+</div>
+
+
 
 <br />
 
