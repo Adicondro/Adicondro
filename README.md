@@ -4,8 +4,8 @@
 
 **Now Playing 🎧**
 <br />
+<img align="right" alt="Zenitsu" src="https://github.com/Adicondro/Adicondro/blob/b504371e3116986959694cd2dd6e3898b9126bcf/gif/Yoriichi.gif" />
 [![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
-
 **Get To Know Me!**
 - 🎓 Currently studying at Telkom University
 - 🎨 Enthusiastic about art and creative world
