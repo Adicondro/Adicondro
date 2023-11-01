@@ -2,7 +2,7 @@
 
 <br />
 
-  <img display="block" alt="Yoriichi" width="75%" align="center" src="https://github.com/Adicondro/Adicondro/blob/d07dc739e8c6f68b7674c0a2adb8465692237e1e/gif/smoking1.gif" />
+  <img display="block" alt="Yoriichi" width="100%" align="center" src="https://github.com/Adicondro/Adicondro/blob/9203548cf1a12e948cb5edf8e81d6eae26dcdef7/gif/smoking2.gif" />
 
 
 
