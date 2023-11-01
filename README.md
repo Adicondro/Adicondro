@@ -2,7 +2,7 @@
 
 <br />
 
-  <img display="block" alt="Yoriichi" width="100%" align="center" src="https://github.com/Adicondro/Adicondro/blob/9203548cf1a12e948cb5edf8e81d6eae26dcdef7/gif/smoking2.gif" />
+ 
 
 
 
@@ -10,9 +10,12 @@
 
 **Now Playing 🎧**
 <br />
+<br />
 [![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
 <br />
-**Get To Know Me!**
+<br />
+**Get To Know Me!︎︎ ︎︎︎ ︎**
+<img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 - 🎓 Currently studying at Telkom University
 - 🎨 Enthusiastic about art and creative world
 - 🌐 Have a passion for things like motion design, 3D design, coding, and music
@@ -48,7 +51,7 @@
 <br />
 <br />
 
-**Connect With Me!**
+**Connect With Me!︎︎**
 
 <a href="https://linkedin.com/in/adicondro" target="_blank"><img align="left" alt="Adicondro | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/linkedin.svg" />
 <a href="https://instagram.com/adicndro" target="_blank"><img align="left" alt="Adicondro | Instagram" width="22px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/instagram.svg" />
@@ -58,7 +61,8 @@
 <br />
 <br />
 
-**Github Stats**
+**Github Stats︎︎ ︎︎︎ ︎**
+<img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/shigeo.gif" />
 
 [![Top Langs](https://github-readme-stats-adicondros-projects.vercel.app/api/top-langs/?username=Adicondro&show_icons=true&theme=dark)](https://github.com/adicondro/github-readme-stats)
 
