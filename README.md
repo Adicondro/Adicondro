@@ -2,9 +2,7 @@
 
 <br />
 
-<div style="text-align: center;">
-  <img display="block" align="center" alt="Yoriichi" src="https://github.com/Adicondro/Adicondro/blob/b504371e3116986959694cd2dd6e3898b9126bcf/gif/Yoriichi.gif" />
-</div>
+  <img display="block" alt="Yoriichi" width="100%" src="https://github.com/Adicondro/Adicondro/blob/b504371e3116986959694cd2dd6e3898b9126bcf/gif/Yoriichi.gif" />
 
 
 
