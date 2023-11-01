@@ -42,5 +42,5 @@
 
 **Connect With Me!**
 
-<a href="https://linkedin.com/in/adicondro" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://instagram.com/adicndro" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://linkedin.com/in/adicondro" target="_blank"><img align="left" alt="Adicondro | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://instagram.com/adicndro" target="_blank"><img align="left" alt="Adicondro | Instagram" width="22px" src="instagram-svgrepo-com.svg" />
