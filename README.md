@@ -1,9 +1,4 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
-<br/>
-<br/>
-
-## Heyyo, I'm <a href="https://aakarsh.design" target="_blank">Aakarsh</a>!
-(Use dark theme to find my socials ;)
+## Ola Como Estas, I'm Adicondro!
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
@@ -59,7 +54,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=9a4e40bb84a94eb4)
 <br/>
 ---
 
