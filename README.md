@@ -2,7 +2,7 @@
 
 <br />
 
-### Now Playing 🎧
+**Now Playing 🎧**
 [![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
 
 <br />
