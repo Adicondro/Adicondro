@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue;">Halo!, I'm <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>!</h1>
+<h1 align="center" style="color: blue;">Hello Guys! I'm <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>!</h1>
 
 
 **Now Playing 🎧**
