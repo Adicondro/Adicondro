@@ -9,9 +9,8 @@
 <br />
 **Get To Know Me!︎︎ ︎︎︎ ︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
-- 🎓 Currently studying at Telkom University and Doing Internship on Direktorat Jenderal Pendidikan Tinggi (Dikti)
-- 🎨 Enthusiastic about Web Development, Web3
-- 🌐 Have a passion for things like Visual Art and Design
+- 🎓 Currently studying at Telkom University
+- 🎨 Web3, Front-End, Visual
 
 <br />
 
