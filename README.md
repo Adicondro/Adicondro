@@ -20,14 +20,8 @@
 **Languages and Tools**
 
 
-<a href="https://react.dev" target="_blank"><img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/261c2cda92d09ccad6f8b2dc91af32a2a5856989/topics/tailwind/tailwind.png" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
-<a href="https://nextjs.org/" target="_blank"> <img align="left" alt="NextJS" width="26px" src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png"/> </a>
-<a href="https://soliditylang.org/" target="_blank"> <img align="left" alt="Solidity" width="26px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png"/> </a>
-<a href="https://ethereum.org/en/" target="_blank"> <img align="left" alt="Ethereum" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png"/> </a>
-<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
