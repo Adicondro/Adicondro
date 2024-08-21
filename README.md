@@ -10,8 +10,8 @@
 **Get To Know Me!︎︎ ︎︎︎ ︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 - 🎓 Currently studying at Telkom University
-- 🌐 Web3, Front-End, Visual
-- 🎨 Currently build Pleaground
+- 🌐 Web3 (Blockchain, Fullstack, Metaverse) Developer
+- 🎨 Developing Pleaground
 
 <br />
 
@@ -33,12 +33,12 @@
 
 **Softwares**
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" width="26px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/figma.svg"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<img align="left" alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" width="42px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/figma.svg"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="42px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.adobe.com/id_en/products/aftereffects" target="_blank"> <img align="left" alt="After Effects" width="26px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/aftereffects.svg"/> </a> 
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<a href="https://www.adobe.com/id_en/products/aftereffects" target="_blank"> <img align="left" alt="After Effects" width="42px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/aftereffects.svg"/> </a> 
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" width="42px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
 
 
