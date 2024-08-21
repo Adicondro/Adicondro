@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue;"><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a>! // 733visual.eth</h1>
+<h1 align="center" style="color: blue;"><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // 733visual.eth</h1>
 
 
 **Now Playing 🎧**
