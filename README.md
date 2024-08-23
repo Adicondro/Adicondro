@@ -22,6 +22,7 @@
 <a href="https://https://nextjs.org/" target="_blank"><img align="left" alt="NextJS" width="42px" src="https://raw.githubusercontent.com/github/explore/2ebcebd7b163b2ab12cb5a40bf29264799c81c03/topics/nextjs/nextjs.png"/></a>
 <a href="https://https://react.dev/" target="_blank"><img align="left" alt="ReactJS" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/></a>
 <a href="https://https://expressjs.com/" target="_blank"><img align="left" alt="ExpressJS" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"/></a>
+<a href="https://laravel.com/" target="_blank"><img align="left" alt="ExpressJS" width="42px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png"/></a>
 
 
 <br />
@@ -36,10 +37,12 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" /></a>
 <a href="https://www.javascript.com/" target="_blank"> <img align="left" alt="Javascript" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/> </a>
 <a href="https://www.soliditylang.org/" target="_blank"> <img align="left" alt="Solidity" width="42px" src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png"/> </a>
+<a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" width="42px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Blender" width="42px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<a href="https://www.adobe.com/id_en/products/aftereffects" target="_blank"> <img align="left" alt="After Effects" width="42px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/aftereffects.svg"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img align="left" alt="Figma" width="42px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/figma.svg"/> </a> 
-<a href="https://www.adobe.com/id_en/products/aftereffects" target="_blank"> <img align="left" alt="After Effects" width="42px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/aftereffects.svg"/> </a> 
+
 
 <br />
 <br />
