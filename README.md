@@ -13,7 +13,7 @@
 - 💼 Intern as Front-End Developer at Digital Amoeba Telkom Indonesia
 - 🎓 Currently studying at Telkom University
 - 🌐 Web3 (Blockchain, Fullstack, Metaverse) Enthusiast
-- 🎨 Developing Pleaground
+- 🎨 Developing @Pleaground
 
 
 
