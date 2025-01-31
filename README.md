@@ -22,7 +22,7 @@
 **Frameworks**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,bootstrap,express,laravel,github" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,express,github" />
 </div>
 
 <br />
@@ -30,7 +30,7 @@
 **Language and Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,tailwind,solidity,nodejs,blender,aftereffects,git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,nodejs,blender,aftereffects,git,figma" /><br>
 </div>
 
 <br />
