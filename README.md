@@ -22,7 +22,7 @@
 **Frameworks**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,express,github" />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,express,github" />
 </div>
 
 <br />
