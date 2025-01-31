@@ -12,7 +12,7 @@
 
 - 💼 ex Intern as Front-End Developer at Digital Amoeba Telkom Indonesia
 - 🎓 Final Years at Telkom University
-- 🌐 Software Engineer Web3, AI
+- 🌐 Web3 Software Engineer
 
 
 
