@@ -30,7 +30,7 @@
 **Language and Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,tailwind,solidity,nodejs,php,blender,aftereffects,git,figma" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,tailwind,solidity,nodejs,blender,aftereffects,git,figma" /><br>
 </div>
 
 <br />
