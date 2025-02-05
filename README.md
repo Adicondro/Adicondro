@@ -1,14 +1,12 @@
-<h1 align="center" style="color: blue;">
-    <a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // 733visual.eth
-</h1>
+<h1 align="center" style="color: blue;"><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // 733visual.eth</h1>
 
-<p align="center">
-    <strong>Now Playing 🎧</strong>
-    <br /><br />
-    <a href="https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552">
-        <img src="https://spotify-now-playing-five-orcin.vercel.app/api/spotify" alt="Spotify Now Playing" />
-    </a>
-</p>
+
+**Now Playing 🎧**
+<br />
+<br />
+<div align="center">    
+    [![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
+</div>
 <br />
 <br />
 **Get To Know Me!︎︎ ︎︎︎**
@@ -51,5 +49,3 @@
 <br />
 <br />
 <br />
-
-Bikin ini semua center, ini adalah github profile saya
