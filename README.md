@@ -20,7 +20,7 @@
 
 **Frameworks & Tools**
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=remix,nextjs,react,redux,express,nestjs,spring,aws,docker,kafka" />
 </div>
 
@@ -28,7 +28,7 @@
 
 **Language and Tools**
 <br/>
-<div align="left">
+<div align="center">
     <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,nodejs,go,rust,python,java,blender,aftereffects" /><br>
 </div>
 
