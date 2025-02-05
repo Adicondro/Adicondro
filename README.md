@@ -19,10 +19,10 @@
 <br />
 
 
-**Frameworks**
+**Frameworks & Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,express,spring,aws" />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,express,spring,aws,docker,kafka" />
 </div>
 
 <br />
