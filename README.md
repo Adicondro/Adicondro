@@ -22,7 +22,7 @@
 **Frameworks**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,express,rust" />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,express,springboot" />
 </div>
 
 <br />
@@ -30,7 +30,7 @@
 **Language and Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,nodejs,go,blender,aftereffects" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,solidity,nodejs,go,rust,python,java,blender,aftereffects" /><br>
 </div>
 
 <br />
