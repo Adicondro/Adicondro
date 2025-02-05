@@ -22,7 +22,7 @@
 **Frameworks & Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,express,nestjs,spring,aws,docker,kafka" />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,redux,express,nestjs,spring,aws,docker,kafka" />
 </div>
 
 <br />
