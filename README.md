@@ -26,7 +26,7 @@
 
 <br />
 
-**Language and Tools**
+**Language**
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nodejs,mysql,postgresql,go,rust,python,java,blender,aftereffects" /><br>
