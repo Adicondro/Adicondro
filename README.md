@@ -45,7 +45,7 @@
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nodejs,mysql,postgresql,go,python,java,blender,aftereffects" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nodejs,mysql,postgresql,go,python,java,cpp,blender,aftereffects" /><br>
 </div>
 
 <br />
