@@ -1,6 +1,22 @@
 <h1 align="center" style="color: blue;"><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // 733visual.eth</h1>
 
 
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/733visual" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/AndreasN#0183" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/adicondro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 **Now Playing 🎧**
 <br />   
 [![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
@@ -31,17 +47,6 @@
 <div align="left">
     <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nodejs,mysql,postgresql,go,rust,python,java,blender,aftereffects" /><br>
 </div>
-
-<br />
-
-
-
-**Connect With Me!︎︎**
-
-<a href="https://linkedin.com/in/adicondro" target="_blank"><img align="left" alt="Adicondro | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/linkedin.svg" />
-<a href="https://instagram.com/adicndro" target="_blank"><img align="left" alt="Adicondro | Instagram" width="22px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/instagram.svg" />
-<a href="https://open.spotify.com/user/adicondro_yusuf" target="_blank"><img align="left" alt="Adicondro | Spotify" width="22px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/spotify.svg" />
-<a href="https://pinterest.com/champagnepapoi" target="_blank"><img align="left" alt="Adicondro | Pinterest" width="22px" src="https://raw.githubusercontent.com/Adicondro/Adicondro/main/simple-icons/pinterest.svg" />
 
 <br />
 <br />
