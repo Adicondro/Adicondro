@@ -17,6 +17,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/pixelarttown.gif" alt="Main" width="1080px"/>
+</div>
+
+###
+
 **Now Playing 🎧**
 <br />   
 [![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
