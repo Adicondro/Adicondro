@@ -36,21 +36,18 @@
 - 🎓 Final Years at Telkom University
 
 
-
-<br />
 **Fullstack**
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=nextjs,react,redux,express,nestjs,spring,aws,docker,kafka,typescript,javascript,nodejs,mysql,postgresql,go,python,java,cpp" /><br>
 </div>
 
-<br />
 **Web3**
+<br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=remix,solidity,hardhat,truffle,ganache," />
 </div>
 
-<br />
 **2D/3D Visual**
 <br/>
 <div align="left">
