@@ -33,20 +33,24 @@
 
 <br />
 
-
-**Frameworks & Tools**
+**Fullstack**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,react,redux,express,nestjs,spring,aws,docker,kafka" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,express,nestjs,spring,aws,docker,kafka,typescript,javascript,nodejs,mysql,postgresql,go,python,java,cpp" /><br>
 </div>
 
-<br />
-
-**Language**
+**Web3**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,nodejs,mysql,postgresql,go,python,java,cpp,blender,aftereffects" /><br>
+    <img src="https://skillicons.dev/icons?i=remix,solidity,hardhat,truffle,ganache," />
 </div>
+
+**2D/3D Visual**
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=blender,aftereffects" />
+</div>
+
 
 <br />
 <br />
