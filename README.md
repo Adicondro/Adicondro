@@ -31,21 +31,20 @@
 **Get To Know Me!︎︎ ︎︎︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 
-- 🌐 Web3 Driven Software Engineer
+- 🌐 Web3 Software Engineer
 - 💼 ex Intern as Front-End Developer at Digital Amoeba Telkom Indonesia
 - 🎓 Final Years at Telkom University
 
-
-**Fullstack**
+**Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,express,nestjs,spring,aws,docker,kafka,typescript,javascript,nodejs,mysql,postgresql,go,python,java,cpp" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,typescript,javascript,nodejs" /><br>
 </div>
 
-**Web3**
+**Framework & Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,solidity,hardhat,truffle,ganache," />
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,nestjs,nuxt,aws,docker,kafka,mysql" /><br>
 </div>
 
 **2D/3D Visual**
