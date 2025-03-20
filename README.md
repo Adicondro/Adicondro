@@ -38,13 +38,13 @@
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,typescript,javascript,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=solidity,rust,go,python,typescript,javascript,nodejs,java" /><br>
 </div>
 
 **Framework & Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,nestjs,nuxt,aws,docker,kafka,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,nestjs,nuxt,aws,docker,mysql,spring" /><br>
 </div>
 
 **2D/3D Visual**
