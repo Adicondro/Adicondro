@@ -50,7 +50,7 @@
 **2D/3D Visual**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=blender,aftereffects" />
+    <img src="https://skillicons.dev/icons?i=blender,aftereffects,gsap,framer" />
 </div>
 
 
