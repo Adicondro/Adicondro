@@ -38,7 +38,7 @@
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,java,golang,python,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,java,golang,python,solidity" /><br>
 </div>
 
 **Framework & Tools**
