@@ -44,7 +44,7 @@
 **Framework & Tools**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,aws,docker,mysql,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,aws,docker,mysql,spring,kotlin" /><br>
 </div>
 
 **2D/3D Visual**
