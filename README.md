@@ -40,7 +40,7 @@
     <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,java,golang,python,solidity" /><br>
 </div>
 
-**Framework & Tools**
+**Library & Framework**
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,aws,docker,mysql,spring,kotlin" /><br>
