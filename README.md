@@ -31,8 +31,7 @@
 **Get To Know Me!︎︎ ︎︎︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 
-- 🌐 Software Engineer & Cryptographic Security Enthusiast
-- 💼 ex Intern as Front-End Developer at Digital Amoeba Telkom Indonesia
+- 🌐 Software Engineer (ex Intern as Front-End Developer at Telkom Indonesia)
 - 🎓 Final Years at Telkom University
 
 **Language**
