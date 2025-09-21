@@ -31,9 +31,11 @@
 **Get To Know Me!︎︎ ︎︎︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 
-- 🌐 Software Engineer
-- 🫆 Fintech Software Engineer
+- 🌐 Fintech Software Engineer
+- 🫆 Financial Technology and Security, Visual
 - 🎓 Bachelor of Informatics
+- 🏆 Student of The Year 2024 S1 Informatics Engineering telkom University
+- 🏆 1st Best Paper at IC2IE Conference titled "Prediction of Angiotensin-Converting-Enzyme (ACE) Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"
 
 **Language**
 <br/>
