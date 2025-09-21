@@ -31,7 +31,7 @@
 **Get To Know Me!︎︎ ︎︎︎**
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 
-- 🌐 Fintech Software Engineer
+- 🌐 Junior Fintech Software Engineer
 - 🫆 Financial Technology and Security, Visual
 - 🎓 Bachelor of Informatics
 - 🏆 Student of The Year 2024 S1 Informatics Engineering telkom University
