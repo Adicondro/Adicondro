@@ -35,7 +35,7 @@
 - 🫆 Interest in Financial Technology, Privacy Security, and Visual
 - 🎓 Bachelor of Informatics
 - 🏆 Student of The Year 2024
-- 🏆 1st Best Paper at IC2IE Conference titled "Prediction of Angiotensin-Converting-Enzyme (ACE) Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"
+- 🏆 1st Best Paper at IC2IE Conference titled as "Prediction of Angiotensin-Converting-Enzyme (ACE) Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"
 
 **Language**
 <br/>
