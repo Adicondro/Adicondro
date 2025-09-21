@@ -42,13 +42,13 @@
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,golang,python" /><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,golang,python,solidity" /><br>
 </div>
 
 **Framework**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=spring,nextjs,react,mysql,postgresql,docker,kafka,kubernetes,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,nextjs,react,remix,mysql,postgresql,docker,kafka,kubernetes,aws,azure" /><br>
 </div>
 
 **2D/3D Visual**
