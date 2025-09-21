@@ -32,19 +32,19 @@
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 
 - 🌐 Software Engineer
-- 🫆 Privacy Enthusiast
+- 🫆 Fintech Software Engineer
 - 🎓 Bachelor of Informatics
 
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,java,golang,python,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,golang,python" /><br>
 </div>
 
-**Library & Framework**
+**Framework**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=remix,nextjs,redux,express,prisma,aws,docker,mysql,spring,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=nextjs,spring,mysql,postgresql,docker,kafka,kubernetes,aws,azure" /><br>
 </div>
 
 **2D/3D Visual**
