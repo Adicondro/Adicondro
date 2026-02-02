@@ -48,7 +48,7 @@
 **Framework**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=spring,react,mysql,postgresql,docker,kubernetes,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,react,mysql,postgresql,docker,kubernetes,aws" /><br>
 </div>
 
 
