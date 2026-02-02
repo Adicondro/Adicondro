@@ -42,19 +42,19 @@
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,typescript,golang,python" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,golang,typescript,python" /><br>
 </div>
 
 **Framework**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=spring,nextjs,react,remix,mysql,postgresql,docker,kafka,kubernetes,aws,azure" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,react,mysql,postgresql,docker,kubernetes,aws,azure" /><br>
 </div>
 
 **2D/3D Visual**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=blender,aftereffects,threejs" />
+    <img src="https://skillicons.dev/icons?i=blender,aftereffects,touchdesigner" />
 </div>
 
 
