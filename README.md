@@ -32,7 +32,7 @@
 <img display="block" alt="Yoriichi" width="100px" align="center" src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" />
 
 - 🌐 Scriptkiddie
-- 🫆 Interested in low level programming, software, and global research
+- 🫆 Interested in Low Level Programming, Software, and Global Research
 - 🎓 Bachelor of Informatics
 
 **Achievements**
@@ -49,12 +49,6 @@
 <br/>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=spring,react,mysql,postgresql,docker,kubernetes,aws,azure" /><br>
-</div>
-
-**2D/3D Visual**
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=blender,aftereffects,touchdesigner" />
 </div>
 
 
