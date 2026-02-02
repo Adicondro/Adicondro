@@ -1,4 +1,4 @@
-<h1 align="center" style="color: blue;"><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // m0riarty.eth</h1>
+<h1 align="center" style="color: blue;"><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // 0x74862342</h1>
 
 
 ###
