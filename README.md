@@ -42,7 +42,7 @@
 **Language**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,typescript,javascript,golang,python,solidity" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,typescript,golang,python" /><br>
 </div>
 
 **Framework**
