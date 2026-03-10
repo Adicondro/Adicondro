@@ -1,13 +1,12 @@
 <div align="center">
 
-```
- █████╗ ██████╗ ██╗ ██████╗ ██████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ 
-██╔══██╗██╔══██╗██║██╔════╝██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
-███████║██║  ██║██║██║     ██║   ██║██╔██╗ ██║██║  ██║██████╔╝██║   ██║
-██╔══██║██║  ██║██║██║     ██║   ██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║
-██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
-╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+
 
 <a href="https://www.instagram.com/733visual" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -27,9 +26,15 @@
 ---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome_;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
-  </a>
+
+ ```
+ █████╗ ██████╗ ██╗ ██████╗ ██████╗ ███╗   ██╗██████╗ ██████╗  ██████╗ 
+██╔══██╗██╔══██╗██║██╔════╝██╔═══██╗████╗  ██║██╔══██╗██╔══██╗██╔═══██╗
+███████║██║  ██║██║██║     ██║   ██║██╔██╗ ██║██║  ██║██████╔╝██║   ██║
+██╔══██║██║  ██║██║██║     ██║   ██║██║╚██╗██║██║  ██║██╔══██╗██║   ██║
+██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
+╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
+```
   <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/pixelarttown.gif" alt="Main" width="1080px"/>
 
 </div>
