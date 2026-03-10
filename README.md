@@ -27,11 +27,11 @@
 ---
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=20&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
+  </a>
   <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/pixelarttown.gif" alt="Main" width="1080px"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
-  </a>
 </div>
 
 <!-- --- -->
