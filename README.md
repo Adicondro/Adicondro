@@ -45,78 +45,62 @@
 
 ---
 
-## `$ cat ~/.config/nvim/whoami.lua`
-
-```lua
-return {
-  name      = "Adicondro",
-  handle    = "0x7482342",
-  role      = { "scriptkiddie", "researcher", "developer" },
-  interests = { "low level", "software architecture", "global research" },
-  education = "Bachelor of Informatics",
-  editor    = "neovim",
-  shell     = "zsh",
-  wm        = "tmux",
-  os        = "arch btw",
-}
-```
-
 <div align="center">
-  <img src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" width="90px"/>
+
+<img src="https://github.com/Adicondro/Adicondro/blob/db891d40052f01de8ab32e91ba6faa0466e7aa1d/gif/anime.gif" width="100px"/>
+
+*Scriptkiddie turned researcher. Interested in low level programming, software, and global research.*
+*Bachelor of Informatics · editor: neovim · os: arch btw*
+
 </div>
 
-- 🌐 **Scriptkiddie** — breaking things to understand them
-- 🫆 Low Level · Software Architecture · Global Research
-- 🎓 Bachelor of Informatics
-
 ---
 
-## `$ cat ~/achievements.log`
+## Achievements
 
-```bash
+```
 [2024] 🏆  Student of The Year 2024
 [2024] 🏆  1st Best Paper — IC2IE International Conference
-         └─ "Prediction of ACE Inhibitor Bioactivity as Antihypertensive
-             Agent Using LSTM + Grey Wolf Optimization"
+         └─ "ACE Inhibitor Bioactivity Prediction using LSTM + Grey Wolf Optimization"
 ```
 
 ---
 
-## `$ cat ~/.config/nvim/plugins.toml`
+## Skills
 
-```toml
-# languages
+**Main Languages**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+</div>
 
-[main]
-stack = ["C", "C++", "Java"]
+**Other Languages**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=golang,python,bash,lua" />
+</div>
 
-[other]
-stack = ["Go", "Python", "Bash", "Lua"]
+**Frameworks & DB**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,postgresql,redis" />
+</div>
 
-[infra]
-stack = ["Docker", "Kubernetes", "AWS", "GCP", "Linux"]
+**Infra & Cloud**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" />
+</div>
 
-[frameworks_db]
-stack = ["Spring", "React", "Next.js", "PostgreSQL", "Redis"]
+**Tooling**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,githubactions,neovim,vscode" />
+</div>
 
-[tooling]
-stack = ["Git", "GitHub Actions", "Neovim", "tmux", "VSCode"]
-
-[research_ml]
-stack = ["PyTorch", "TensorFlow", "Anaconda"]
-```
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,golang,python,bash,lua" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux" /><br/>
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,postgresql,redis" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,githubactions,neovim,vscode" /><br/>
+**Research & ML**
+<div align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda" />
 </div>
 
 ---
 
-## `$ git log --oneline --graph`
+## Stats
 
 <div align="center">
 
@@ -129,17 +113,9 @@ stack = ["PyTorch", "TensorFlow", "Anaconda"]
 
 </div>
 
----
-
-## `$ tmux new-session -s contributions`
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adicondro&theme=tokyo-night&bg_color=1A1B26&color=7AA2F7&line=BB9AF7&point=C0CAF5&area=true&hide_border=true" width="100%" />
 </div>
-
----
-
-## `$ nvim ~/trophies`
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adicondro&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6" />
@@ -149,9 +125,4 @@ stack = ["PyTorch", "TensorFlow", "Anaconda"]
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Adicondro&label=profile+views&color=7AA2F7&style=flat-square" />
-
-```
-[adicondro@arch ~]$ █
-```
-
 </div>
