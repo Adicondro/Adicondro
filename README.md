@@ -39,10 +39,16 @@
 - 🏆 Student of The Year 2024
 - 🏆 1st Best Paper at IC2IE Conference titled as "Prediction of Angiotensin-Converting-Enzyme (ACE) Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"
 
-**Language**
+**Main Languages**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=c,java,typescript,python" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
+</div>
+
+**Other Languages**
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python,rust" /><br>
 </div>
 
 **Framework**
