@@ -35,7 +35,7 @@
 ██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
-  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/pixelarttown.gif" alt="Main" width="1080px"/>
+  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/blackabstract.gif" alt="Main" width="1080px"/>
 
 </div>
 
