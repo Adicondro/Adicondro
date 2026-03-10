@@ -86,10 +86,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adicondro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" height="160" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Adicondro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" height="160" /> -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adicondro&theme=tokyonight&hide_border=true&border_radius=8&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&background=1A1B26" height="160" />
 
-<br/>
+<!-- <br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adicondro&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=7AA2F7&text_color=C0CAF5&bg_color=1A1B26" height="145" />
 
@@ -99,13 +99,13 @@
 
 </div>
 
----
+ ---
 
 **Trophies**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adicondro&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6" />
-</div>
+</div> -->
 
 ---
 
