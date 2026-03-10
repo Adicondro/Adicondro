@@ -35,7 +35,7 @@
 ██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
-  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/1041uuu.gif" alt="Main" width="1080px"/>
+  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/CAR.gif" alt="Main" width="1080px"/>
 
 </div>
 
