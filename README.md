@@ -9,12 +9,6 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
-</a> -->
-
-<br/>
-
 <a href="https://www.instagram.com/733visual" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
@@ -34,6 +28,10 @@
 
 <div align="center">
   <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/pixelarttown.gif" alt="Main" width="1080px"/>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=15&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- --- -->
@@ -60,23 +58,25 @@
 - 🏆 Student of The Year 2024
 - 🏆 1st Best Paper at IC2IE Conference — *"Prediction of ACE Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"* -->
 
----
-
-**Main Languages**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+<!--**Main Languages** -->
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adicondro&theme=tokyonight&hide_border=true&border_radius=8&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&background=1A1B26" height="160" />
 </div>
 
-**Other Languages**
-<br/>
-<div align="left">
+ <br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,golang,python,typescript" />
+</div>
+
+<!--**Other Languages**
+ <br/> -->
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=golang,python,typescript" />
-</div>
+</div> -->
 
-**Framework**
-<br/>
-<div align="left">
+<!-- **Framework**
+<br/> -->
+<div align="center">
   <img src="https://skillicons.dev/icons?i=spring,react,nextjs,postgresql,docker,aws" />
 </div>
 
@@ -87,7 +87,7 @@
 <div align="center">
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Adicondro&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&title_color=7AA2F7&icon_color=BB9AF7&text_color=C0CAF5&bg_color=1A1B26" height="160" /> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adicondro&theme=tokyonight&hide_border=true&border_radius=8&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&background=1A1B26" height="160" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adicondro&theme=tokyonight&hide_border=true&border_radius=8&ring=7AA2F7&fire=BB9AF7&currStreakLabel=7AA2F7&background=1A1B26" height="160" /> -->
 
 <!-- <br/>
 
@@ -106,9 +106,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Adicondro&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=6" />
 </div> -->
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Adicondro&label=Profile+Views&color=7AA2F7&style=flat-square" />
 </div>
+
+<!-- --- -->
+
+
