@@ -82,7 +82,7 @@
 
 ---
 
-**Stats**
+<!-- **Stats** -->
 
 <div align="center">
 
