@@ -9,6 +9,12 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
+</a>
+
+<br/>
+
 <a href="https://www.instagram.com/733visual" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
