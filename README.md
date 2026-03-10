@@ -9,8 +9,6 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-<h3><a href="https://www.linkedin.com/in/adicondro/" target="_blank">Adicondro</a> // <a href="https://www.instagram.com/0x7482342/" target="_blank">0x7482342</a></h3>
-
 <a href="https://www.instagram.com/733visual" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </a>
@@ -67,25 +65,13 @@
 **Other Languages**
 <br/>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=golang,python,bash,lua" />
+  <img src="https://skillicons.dev/icons?i=golang,python,typescript" />
 </div>
 
-**Framework & Infra**
+**Framework**
 <br/>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,postgresql,redis,docker,kubernetes,aws,gcp" />
-</div>
-
-**Tooling**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,githubactions,neovim,vscode,linux" />
-</div>
-
-**Research & ML**
-<br/>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,anaconda" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,postgresql,docker,aws" />
 </div>
 
 ---
