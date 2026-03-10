@@ -48,7 +48,7 @@
 **Other Languages**
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,golang,python" /><br>
+    <img src="https://skillicons.dev/icons?i=golang,python" /><br>
 </div>
 
 **Framework**
