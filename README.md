@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+To+My+Github+👋🏻;Low+Level+%7C+Software+Engineer+%7C+Global+Researcher" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -35,7 +35,7 @@
 ██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
-  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/thinthin2.gif" alt="Main" width="1080px"/>
+  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/thingreen.gif" alt="Main" width="1080px"/>
 
 </div>
 
