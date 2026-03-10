@@ -35,7 +35,7 @@
 ██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
-  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/thingreen.gif" alt="Main" width="1080px"/>
+  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/thinthin2.gif" alt="Main" width="1080px"/>
 
 </div>
 
