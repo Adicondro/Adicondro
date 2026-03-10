@@ -35,7 +35,7 @@
 ██║  ██║██████╔╝██║╚██████╗╚██████╔╝██║ ╚████║██████╔╝██║  ██║╚██████╔╝
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
-  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/traindark.gif" alt="Main" width="1080px"/>
+  <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/trainanime.gif" alt="Main" width="1080px"/>
 
 </div>
 
