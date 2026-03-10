@@ -115,6 +115,30 @@
   <img src="https://komarev.com/ghpvc/?username=Adicondro&label=Profile+Views&color=7AA2F7&style=flat-square" />
 </div>
 
+<!--**Main Languages** -->
+
+ <!-- <br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,golang,python,typescript" />
+</div> -->
+
+<!--**Other Languages**
+ <br/> -->
+<!-- <div align="center">
+  <img src="https://skillicons.dev/icons?i=golang,python,typescript" />
+</div> -->
+
+<br/>
+
+**Languages & Frameworks**
+<!-- <br/> -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript" />
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,postgresql,docker,aws" />
+</div>
+
 <!-- --- -->
 
 
