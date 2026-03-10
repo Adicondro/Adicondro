@@ -9,9 +9,9 @@
 ╚═╝  ╚═╝╚═════╝ ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
 ```
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Welcome;low+level+%7C+software+engineer+%7C+global+researcher" alt="Typing SVG" />
-</a>
+</a> -->
 
 <br/>
 
@@ -36,11 +36,11 @@
   <img src="https://github.com/Adicondro/Adicondro/blob/main/gif/pixelarttown.gif" alt="Main" width="1080px"/>
 </div>
 
----
+<!-- --- -->
 
-**Now Playing 🎧**
-<br/>
-[![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552)
+<!-- **Now Playing 🎧**
+ <br/> 
+[![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/adicondro_yusuf?si=5fe635aec8204552) 
 
 ---
 
@@ -58,7 +58,7 @@
 **Achievements**
 
 - 🏆 Student of The Year 2024
-- 🏆 1st Best Paper at IC2IE Conference — *"Prediction of ACE Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"*
+- 🏆 1st Best Paper at IC2IE Conference — *"Prediction of ACE Inhibitor Bioactivity as an Antihypertensive Agent Using LSTM Modeling Optimized with Grey Wolf Optimization"* -->
 
 ---
 
