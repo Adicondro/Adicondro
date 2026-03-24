@@ -1,0 +1,28 @@
+import jsonfile from 'jsonfile';
+import moment from 'moment';
+import simpleGit from 'simple-git';
+import random from 'random';
+
+const path = './data.json';
+const git = simpleGit();
+
+const makeCommit = (n) => {
+    if (n === 0) return git.push(); // Terminus: Push all commits to remote
+
+    // Define the range: Start at March 24, subtract 'n' days
+    // To cover from Mar 24 to Jan 1 (~82 days), set n accordingly
+    const date = moment('2026-03-24')
+        .subtract(n, 'days')
+        .format();
+
+    const data = { date };
+
+    jsonfile.writeFile(path, data, () => {
+        git.add([path]).commit(date, { '--date': date }, () => {
+            makeCommit(--n); // Recursive call
+        });
+    });
+};
+
+// Start the process for 82 days (approximate distance between Mar 24 and Jan 1)
+makeCommit(82);
