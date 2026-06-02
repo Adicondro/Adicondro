@@ -136,7 +136,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript" />
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,matlab,nextjs,mysql,docker,azure" />
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,postgresql,docker" />
 </div>
 
 <!-- --- -->
