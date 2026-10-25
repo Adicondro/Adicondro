@@ -133,7 +133,7 @@
 **Languages & Frameworks**
 <!-- <br/> -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,typescript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,matlab,linux" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=spring,nextjs,postgresql,docker" />
